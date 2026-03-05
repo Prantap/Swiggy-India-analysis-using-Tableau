@@ -1,0 +1,3 @@
+Swiggy, India’s largest online food delivery platform, is facing a challenge: despite high traffic on its website and mobile app, conversion rates—users who complete a transaction—are lower than expected. To address this, Swiggy’s marketing team requires a more in-depth understanding of user behavior and web traffic patterns. They need actionable insights to optimize their digital strategy and improve conversions.
+This Tableau dashboard is made so that it enables the marketing team to visualize key performance indicators (KPIs) related to traffic, user engagement, and conversion rates. The dashboard will help them make data-driven decisions to improve website performance, increase user engagement, and drive revenue growth.
+
